@@ -9,7 +9,7 @@ Today, I channel that mindset into data science and ML. I enjoy mastering new to
 ### 🧰 Tech Stack
 - **Languages:** Python, SQL, R
 - **ML/DL:** Supervised & Unsupervised Learning, Causal Inference, Time-Series, Scikit‑learn, PyTorch, SHAP, LIME
-- **Data Platforms & ML Tools:** MLflow, Git, Docker, Google BigQuery
+- **Data Platforms & ML Tools:** MLflow, Git, Docker, Google BigQuery, PostgrelSQL, MySQL
 - **Visualization:** Power BI, Tableau, Streamlit
 
 ### 🌍 Outside of Work
