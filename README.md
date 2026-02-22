@@ -1,4 +1,4 @@
-### Hi, I’m Hazel 👋
+### Hi, I’m Jia Jue 👋
 
 Recent graduate of McGill University’s Master of Management in Analytics, with a non‑traditional path into data after four years as a pharmacist. In healthcare I managed operations, solved complex problems under pressure, and developed a rigorous, scientific approach to decision‑making.
 
